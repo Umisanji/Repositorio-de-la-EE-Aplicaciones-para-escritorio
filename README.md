@@ -1,4 +1,3 @@
-## Actividad 1
+## Repositorio para Aplicaciones de escritorio
+Este repositorio es para subir la actividades realizadas en la Experiencia Educativa Aplicaciones para escritorio.
 
-## Repositorio para guarda la actividad 1 
-"Se requiere calcular el porcentaje de votos que están en una urna. Cada que se saca un boto de la urna, se ingresa el número del candidato. Cuando se terminan los votos se ingresa un cero"
